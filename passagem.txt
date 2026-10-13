@@ -1,0 +1,21 @@
+PASSAGEM DE PLANTÃO - SISTEMA DE LOJA VIRTUAL (E-COMMERCE)
+Total de ocorrências abertas: 3
+Total de ocorrências abertas com prioridade alta: 1
+--------------------------------------------------
+PENDÊNCIAS ABERTAS:
+
+Serviço: Login
+Descrição: Falha na autenticação via 2FA
+Prioridade: alta
+Próxima ação: Verificar integração com serviço de SMS
+------------------------------
+Serviço: Relatório
+Descrição: Lenteza ao exportar relatório mensal em PDF
+Prioridade: baixa
+Próxima ação: Otimizar query de busca no banco
+------------------------------
+Serviço: Carrinho
+Descrição: Cupom de desconto expirado não exibe aviso
+Prioridade: media
+Próxima ação: Ajustar mensagem de validação no frontend
+------------------------------

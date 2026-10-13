@@ -1,0 +1,30 @@
+[
+    {
+        "servico": "Login",
+        "descricao": "Falha na autenticação via 2FA",
+        "prioridade": "alta",
+        "status": "aberto",
+        "proxima_acao": "Verificar integração com serviço de SMS"
+    },
+    {
+        "servico": "Relatório",
+        "descricao": "Lenteza ao exportar relatório mensal em PDF",
+        "prioridade": "baixa",
+        "status": "aberto",
+        "proxima_acao": "Otimizar query de busca no banco"
+    },
+    {
+        "servico": "Pagamento",
+        "descricao": "Timeout na API da credenciadora de cartão",
+        "prioridade": "alta",
+        "status": "resolvido",
+        "proxima_acao": "nenhuma"
+    },
+    {
+        "servico": "Carrinho",
+        "descricao": "Cupom de desconto expirado não exibe aviso",
+        "prioridade": "media",
+        "status": "aberto",
+        "proxima_acao": "Ajustar mensagem de validação no frontend"
+    }
+]

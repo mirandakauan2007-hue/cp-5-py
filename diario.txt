@@ -1,0 +1,3 @@
+Login — Reinício testado sem sucesso
+Relatório — Limpeza de cache realizada, problema persiste
+Carrinho — Regra de validação identificada no código
