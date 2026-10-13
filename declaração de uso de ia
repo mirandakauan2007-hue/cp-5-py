@@ -1,8 +1,6 @@
 Declaração de Uso de Inteligência Artificial
 Declaro que utilizei assistência de Inteligência Artificial como ferramenta de apoio durante a elaboração deste projeto.
 
-Finalidade de Uso: Auxílio na estruturação e formatação textual do relatório de evidências (evidencias.pdf), auxílio na revisão dos blocos de tratamento de erros no código Python e organização dos casos de teste.
+Finalidade de Uso: Auxílio na estruturação e formatação textual do relatório de evidências (evidencias.pdf),organização dos casos de teste.
 
-Ferramenta Utilizada: Google Gemini.
-
-Conferência e Validação: Todo o conteúdo gerado (código Python, arquivo JSON, diário TXT e relatório de evidências) foi revisado, testado e validado manualmente por mim para garantir o correto funcionamento e o cumprimento de todos os requisitos do Checkpoint.
+Conferência e Validação: Todo o conteúdo gerado foi revisado, testado e validado manualmente por mim para garantir o correto funcionamento e o cumprimento de todos os requisitos do Checkpoint.
